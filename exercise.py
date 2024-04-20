@@ -364,5 +364,3 @@ def get_multiplication(n1,n2):
     n2 = float(n2)
     sum = n1 * n2
     print("The multiplication of {0} and {1} is {2}".format(n1,n2,sum))
-
-get_multiplication(12,10)
